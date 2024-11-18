@@ -1,0 +1,6 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+97945,Rental unit in Munich · ★4.84 · 1 bedroom · 1 bed · 1 bath,517685,Angelika,,Hadern,48.11492,11.48954,Entire home/apt,80.0,2,127,2019-10-03,0.85,2,72,0,
+114695,Rental unit in Munich · ★4.82 · 1 bedroom · 1 bed · 1 bath,581737,Stephan,,Berg am Laim,48.12071,11.63758,Entire home/apt,105.0,2,66,2023-10-25,0.43,3,166,11,
+127383,Rental unit in Munich · ★4.83 · 1 bedroom · 1 bed · 1 bath,630556,Sonja,,Maxvorstadt,48.15199,11.56482,Entire home/apt,120.0,3,110,2023-12-12,0.72,1,5,3,
+159634,Rental unit in Munich · ★4.63 · 1 bedroom · 1 bed · 1 bath,765694,Susana,,Pasing-Obermenzing,48.13855,11.46586,Entire home/apt,60.0,3,37,2023-08-09,0.25,1,5,1,
+
