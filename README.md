@@ -21,7 +21,6 @@
 * [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40)](https://medium.com/)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&width=120&height=40)](https://www.instagram.com/)
 
-
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
