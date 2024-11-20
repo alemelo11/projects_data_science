@@ -3,7 +3,7 @@
 
 
 [![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/projects_data_science/blob/main/notebooks/Airbnb/Análise_dos_Dados_do_Airbnb_Boston.ipynb)
+
 
 
 
