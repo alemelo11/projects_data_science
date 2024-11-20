@@ -13,7 +13,8 @@
 
 
 
-**Background:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&width=120&height=40)](https://www.python.org/downloads/release/python-365/)
+**Background:** 
+* [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&width=120&height=40)](https://www.python.org/downloads/release/python-365/)
 
 
 **Links:**
