@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alemelo11/readme/main/black_banner.png" alt="Banner" width="600"/>
+<img src="https://raw.githubusercontent.com/alemelo11/readme/main/black_banner.png" alt="Banner" width="700"/>
 
 
 
