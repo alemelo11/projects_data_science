@@ -1,5 +1,5 @@
 
-[![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) [![](https://img.shields.io/badge/python-3.12.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alemelo11/data_science/issues)
+[![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) [![](https://img.shields.io/badge/python-3.12.7+-blue.svg)]
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/projects_data_science/blob/main/notebooks/Airbnb/Análise_dos_Dados_do_Airbnb_Boston.ipynb)
 
 <div>
