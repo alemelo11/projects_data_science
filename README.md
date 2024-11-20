@@ -1,4 +1,4 @@
-![Black Banner](black_banner.png)
+<img src="./black_banner.png" alt="Banner" width="600"/>
 
 
 
