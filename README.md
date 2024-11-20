@@ -23,7 +23,7 @@
 * [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&width=120&height=40)](https://medium.com/)
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
+* **Análise dos Dados do Airbnb - Munich:** https://bit.ly/3AGQs8F
 * **Análise dos Dados do Airbnb - Boston:** https://bit.ly/3CP081e
 
 
