@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/banner.png" alt="Banner">
+  <img src="../images/banner2.png" alt="Banner">
 </div>
 
 [![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) 
