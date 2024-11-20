@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="../../images/banner2.png" alt="Banner">
-</div>
+
 
 
 [![author](https://img.shields.io/badge/author-alemelo11-red.svg)](https://www.linkedin.com/in/alemelo11) 
@@ -9,10 +7,10 @@
 
 
 </p>
-<p align="center">
-  <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png" width="90%">
-  
-</p>
+<div align="center">
+  <img src="../../images/banner2.png" alt="Banner">
+</div>
+  </p>
 
 ### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
 <sub>Data Science student</sub>
