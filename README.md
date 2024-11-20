@@ -5,16 +5,13 @@
 <div>
   <img alt="My GitHub Banner" width="65%" src="black_banner.png">
  
- 
-</div>
-
-
+ </div>
 
 
 </p>
 <p align="center">
   <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png" width="90%">
-   ![Snake animation](https://github.com/alemelo11/alemelo11/blob/output/github-contribution-grid-snake.svg)
+  
 </p>
 
 ### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
