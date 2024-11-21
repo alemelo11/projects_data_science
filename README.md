@@ -11,6 +11,7 @@
 <sub>Data Science student</sub>
 
 
+<br> ![Snake animation](https://raw.githubusercontent.com/alemelo11/snk/main/github-contribution-grid-snake.svg) </br>
 
 
 **Background:** 
